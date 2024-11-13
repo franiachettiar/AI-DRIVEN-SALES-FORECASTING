@@ -81,5 +81,4 @@ Offers multiple plots to provide insights into sales trends:
 - Generates predictions for the selected product family and forecast range.
 - Supports various product families (e.g., `AUTOMOTIVE`, `ELECTRONICS`, etc.).
 
-- 
-![demo](https://github.com/user-attachments/assets/c4576b55-b01d-487b-9d06-a0a1cf5bace3)
+  
