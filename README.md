@@ -65,7 +65,7 @@ Offers multiple plots to provide insights into sales trends:
 4. **Q-Q Plot**: Assesses data normality for statistical modeling.
 5. **ACF and PACF Plots**: Displays lag correlations for ARIMA modeling.
 6. **Seasonal Decomposition**: Visualizes the trend, seasonality, and residuals in the sales data.
-https://github.com/user-attachments/assets/9b162adf-3f36-44ff-9430-ef99b02715aa
+
 ---
 
 ## Key Features Across Product Families
@@ -78,6 +78,10 @@ https://github.com/user-attachments/assets/9b162adf-3f36-44ff-9430-ef99b02715aa
 - Provides model performance metrics to evaluate accuracy.
 
 ### Sales Forecast
+
+https://github.com/user-attachments/assets/982f2e29-5da9-4673-968c-5a1ee7403eb7
+
+
 - Generates predictions for the selected product family and forecast range.
 - Supports various product families (e.g., `AUTOMOTIVE`, `ELECTRONICS`, etc.).
 
