@@ -23,11 +23,7 @@ Offers multiple plots to provide insights into sales trends:
 
 ### 4. Stationarity Check
 - Performs stationarity tests (e.g., Augmented Dickey-Fuller test) to determine if the sales data is suitable for time series modeling.
-- Outputs detailed results, including ADF statistics an
-
-https://github.com/user-attachments/assets/9b162adf-3f36-44ff-9430-ef99b02715aa
-
-d p-values, for interpretation.
+- Outputs detailed results, including ADF statistics and p-values, for interpretation.
 
 ### 5. Autoregressive Integrated Moving Average (ARIMA) Model
 - Trains ARIMA models for the selected product family and forecast range:
@@ -69,7 +65,7 @@ d p-values, for interpretation.
 4. **Q-Q Plot**: Assesses data normality for statistical modeling.
 5. **ACF and PACF Plots**: Displays lag correlations for ARIMA modeling.
 6. **Seasonal Decomposition**: Visualizes the trend, seasonality, and residuals in the sales data.
-
+https://github.com/user-attachments/assets/9b162adf-3f36-44ff-9430-ef99b02715aa
 ---
 
 ## Key Features Across Product Families
